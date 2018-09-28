@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "contactdb:Gurren08!@ds157762.mlab.com",
+    "port": 57762,
+    "url": "mongodb://gsoto:Gurren08!@ds157762.mlab.com:57762/contactdb",
+    "database": "contactdb",
+    "password": "Gurren08!",
+    "name": "db",
+    "user": "gsoto",
+    "connector": "mongodb"
+  }
+}
